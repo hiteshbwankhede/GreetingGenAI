@@ -1,0 +1,2 @@
+# GreetingGenAI
+Greetings using GenAI
