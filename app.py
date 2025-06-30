@@ -20,7 +20,7 @@ if st.button("Greet Me") and user_name:
     message = HumanMessage(content=prompt)
 
     # LangChain LLM
-    llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
+    llm = ChatOpenAI(model_name="gpt-3.5-turbo-16k", temperature=0)
     response = llm([message])
 
     # Output
