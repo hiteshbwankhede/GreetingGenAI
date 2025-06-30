@@ -34,7 +34,7 @@ A simple, elegant Streamlit app to generate friendly greetings using **LangChain
    ```bash
    git clone https://github.com/your-username/genai-greeter.git
    cd genai-greeter
-```
+   ```
 
 2. **Create a `.env` file**
 
