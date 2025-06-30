@@ -3,7 +3,7 @@
 A simple, elegant Streamlit app to generate friendly greetings using **LangChain + ChatOpenAI**, with full tracing via **LangSmith**.
 
 🔗 **Live Demo**: [hitesh-genai-greetings.streamlit.app](https://hitesh-genai-greetings.streamlit.app/)
-
+![alt text]({C7E3FABC-8809-4A12-AA0B-75D23787A138}.png)
 ---
 
 ## ⚙️ What It Does
